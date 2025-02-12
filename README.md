@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=chathura20001109&label=Profile%20views&color=0e75b6&style=flat" alt="chathura20001109" /> </p>
 
 <p align="center" > 🌱 I’m currently learning **MERN Stack**  </p>
-<p align="center" >  📫 How to reach me    <a href="chathuranavodya86@gmail.com" target="_blank" rel="noreferrer"> chathuranavodya86@gmail.com </p>
+<p align="center" >  📫 How to reach me    <a href="mailto:chathuranavodya86@gmail.com">Send Email</a> to chathuranavodya86@gmail.com </p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
